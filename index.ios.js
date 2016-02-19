@@ -1,7 +1,7 @@
 'use strict';
 
 import React, { AppRegistry } from 'react-native';
-import App from './app/containers/app';
-// import App from './app/components/NavigatorExample';
+// import Main from './src/main';
+import App from './src/containers/App';
 
 AppRegistry.registerComponent('RnDemo', () => App);
